@@ -8,4 +8,4 @@ le flag.
 
 La description est un message de soutien sur la santé émotionnelle des hommes.
 
-**Flag :** `CyberZerk{le_masque_tombe}`
+**Flag :** `CyberZerk{le_masque_tombe_et_les_cheaters_tombent_aussi}`
