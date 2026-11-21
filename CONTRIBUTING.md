@@ -23,10 +23,6 @@ Tout le monde peut proposer sa propre solution à un challenge. L'équipe CyberZ
 L'équipe relit, peut te demander des changements, puis accepte ou refuse. Ta solution est publiée sous ton pseudo. Elle reste
 la tienne : tu peux demander à la retirer à tout moment.
 
-## Les challenges sans solution détaillée
-
-Pour *Waf Maison*, les charges exactes ne sont pas publiées par l'équipe. Si tu as une solution, c'est l'endroit idéal pour la proposer.
-
 ## Un problème de sécurité ?
 
 Ne l'écris pas dans une pull request ou une issue publique, lis [SECURITY.md](SECURITY.md).
