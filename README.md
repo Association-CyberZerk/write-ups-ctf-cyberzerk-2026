@@ -3,8 +3,6 @@
 Les solutions officielles de toutes les épreuves du CTF organisé par l'association CyberZerk du 9 au 22 novembre 2026.
 Chaque fichier explique comment on arrive au flag, avec les commandes et les scripts utiles.
 
-> ⚠️ Spoilers : tous les flags sont dans ce dépôt. Si tu joues encore, ferme cet onglet.
-
 Les challenges ont été créés par [@PercevalFox](https://github.com/PercevalFox).
 
 | Catégorie | Challenge | Points |
